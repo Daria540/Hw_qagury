@@ -3,7 +3,7 @@ public class Conflict {
         int[] col = {1,0,3};
         for (int i : col){
             for (int a=0; a<i; a++){
-                System.out.print("bar");
+                System.out.print("Бар");
             }
             System.out.println();
         }
